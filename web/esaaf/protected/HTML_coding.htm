@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>TEST</title>
+    <style type="text/css">
+        .style2
+        {
+            font-weight: bold;
+            font-size: x-large;
+        }
+    </style>
+</head>
+<body>
+    <h1>Search Damage Reports</h1>
+    
+    <form method="post" action="<?php echo $PHP_SELF;?>">
+        
+    <span class="style2">Search for a soldier</span><br />
+    </b>
+    <br />
+        Soldier Name:
+    <input name="SearchName" type="text" /><br />
+    <br />
+    <span class="style2">Select Squads</span><br />
+    <br />
+    <span class="style2">Select Companies</span><br />
+    <br />
+    <span class="style2">Select Divisions</span><br />
+    <br />
+    <span class="style2">Select Battles</span><br />
+    <br />
+    <span class="style2">Report Breakdown</span><br class="style3" />
+    Choose what breakdown you would like to see<br />
+    <input name="breakdown[]" type="checkbox" />Individual Soldiers
+    <input name="breakdown[]" type="checkbox" />Squads
+    <input name="breakdown[]" type="checkbox" />Companies
+    <input name="breakdown[]" type="checkbox" />Divisions
+    <input name="breakdown[]" type="checkbox" />Overall eSAAF<br />
+    <br />
+    <input type="submit" value="submit" /><br />
+        
+    </form>
+</body>
+</html>

@@ -1,0 +1,47 @@
+Pretorian Guard
+1
+1
+10
+Person1,eSAAFrank
+Person2,eSAAFrank
+Person3,eSAAFrank
+Person4,eSAAFrank
+Person5,eSAAFrank
+Person6,eSAAFrank
+Person7,eSAAFrank
+Person8,eSAAFrank
+Person9,eSAAFrank
+Person10,eSAAFrank
+1
+2
+10
+Person1,eSAAFrank
+Person2,eSAAFrank
+Person3,eSAAFrank
+Person4,eSAAFrank
+Person5,eSAAFrank
+Person6,eSAAFrank
+Person7,eSAAFrank
+Person8,eSAAFrank
+Person9,eSAAFrank
+Person10,eSAAFrank
+.
+.
+.
+
+
+
+General Format:
+
+Division
+Battalion
+Platoon
+NumberOfSoldiers (X)
+SoldierID,eSAAF Rank(1-X)
+Company
+Platoon
+NumberOfSOldiers (Y)
+SoldierID,eSAAF Rank(1-Y)
+.
+.
+.

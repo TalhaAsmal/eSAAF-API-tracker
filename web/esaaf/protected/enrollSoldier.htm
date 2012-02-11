@@ -1,0 +1,54 @@
+<html>
+    <head>
+        <title>eSAAF Enrollment</title>
+		<script type="text/javascript" src="jquery.js"></script>
+		<script type="text/javascript">
+			function enroll() {
+				document.getElementById("response").innerHTML="<h1>Status</h1> Working...";
+				$.ajax({
+					type: "POST",
+					url: "process.php",
+					data: "scope=soldier&action=enroll&id=" + document.getElementById("index").value + "&milRank=" + document.getElementById("milRank").value + "&branch=" + document.getElementById("branch").value + "&battalion=" + document.getElementById("battalion").value + "&platoon=" + document.getElementById("platoon").value,
+					success: function(html){
+								$("#response").html(html);
+					}
+				});
+			}
+		</script>
+    </head>
+
+    <body>
+	<h1>Welcome to the eSAAF enrollment form</h1
+	<form action="" method="post">
+		<label for="index"><h2>eRepublik Profile ID:</h2></label>
+		<input id="index" name="index" type="text" /><br />
+		<br />
+		
+		<label for="milRank"><h2>eSAAF Rank:</h2></label>
+        <input type="text" name="milRank" id="milRank" />
+        <br />
+		
+		<label for="branch"><h2>eSAAF Branch:</h2></label>
+        <input type="text" name="branch" id="branch"/>
+        <br />
+		
+		<label for="battalion"><h2>eSAAF Battalion:</h2></label>
+		<input type="text" name="battalion" id="battalion"/>
+		<br />
+		
+		<label for="platoon"><h2>eSAAF Platoon:</h2></label>
+		<input type="text" name="platoon" id="platoon" />
+		<br />
+		
+        <input id="submit" type="button" name="submit" value="Enroll" onclick="enroll()" />
+	</form>
+	
+	<br />
+	
+		<div id="response">
+			<!-- Message will be displayed here -->
+		</div>
+		
+        <a href="index.html">Return Home</a> | <a href="view.php">View registered soldiers</a>
+    </body>
+</html>

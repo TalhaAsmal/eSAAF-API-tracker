@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<platoon>
+ <info>
+  <id>3</id>
+  <battalion>3</battalion>
+  <branch>Pretorian Guard</branch>
+  <numSoldiers>8</numSoldiers>
+ </info>
+ <soldier>
+  <name>EchoZA</name>
+  <id>1355049</id>
+  <milRank>Private</milRank>
+  <emailAddress></emailAddress>
+  <positionSince>0000-00-00</positionSince>
+  <forum></forum>
+  <wellness>0</wellness>
+  <location>South Africa</location>
+  <rankPoints>37745</rankPoints>
+  <gameMil>Major***</gameMil>
+  <strength>442</strength>
+  <influence>90</influence>
+  <branch>Pretorian Guard</branch>
+  <battalion>3</battalion>
+  <platoon>3</platoon>
+ </soldier>
+</platoon>
+<soldier>
+ <name>Lazer Fazer</name>
+ <id>1397185</id>
+ <milRank>Colonel</milRank>
+ <emailAddress></emailAddress>
+ <positionSince>0000-00-00</positionSince>
+ <forum></forum>
+ <wellness>95</wellness>
+ <location>Romania</location>
+ <rankPoints>87812</rankPoints>
+ <gameMil>Commander***</gameMil>
+ <strength>727</strength>
+ <influence>154</influence>
+ <branch>Pretorian Guard</branch>
+ <battalion>3</battalion>
+ <platoon>3</platoon>
+</soldier>
+<soldier>
+ <name>Ryan Fisher</name>
+ <id>1474709</id>
+ <milRank>Private</milRank>
+ <emailAddress></emailAddress>
+ <positionSince>0000-00-00</positionSince>
+ <forum></forum>
+ <wellness>60</wellness>
+ <location>New Zealand</location>
+ <rankPoints>77385</rankPoints>
+ <gameMil>Commander**</gameMil>
+ <strength>754</strength>
+ <influence>156</influence>
+ <branch>Pretorian Guard</branch>
+ <battalion>3</battalion>
+ <platoon>3</platoon>
+</soldier>
+<soldier>
+ <name>Michiel Johan Baird</name>
+ <id>3206414</id>
+ <milRank>Private</milRank>
+ <emailAddress></emailAddress>
+ <positionSince>0000-00-00</positionSince>
+ <forum></forum>
+ <wellness>0</wellness>
+ <location>South Africa</location>
+ <rankPoints>3005</rankPoints>
+ <gameMil>Lieutenant**</gameMil>
+ <strength>79</strength>
+ <influence>18</influence>
+ <branch>Pretorian Guard</branch>
+ <battalion>3</battalion>
+ <platoon>3</platoon>
+</soldier>
+<soldier>
+ <name>Brett Klopper</name>
+ <id>2466920</id>
+ <milRank>Private</milRank>
+ <emailAddress></emailAddress>
+ <positionSince>0000-00-00</positionSince>
+ <forum></forum>
+ <wellness>78</wellness>
+ <location>South Africa</location>
+ <rankPoints>10276</rankPoints>
+ <gameMil>Captain**</gameMil>
+ <strength>289</strength>
+ <influence>54</influence>
+ <branch>Pretorian Guard</branch>
+ <battalion>3</battalion>
+ <platoon>3</platoon>
+</soldier>
+<soldier>
+ <name>Glorified</name>
+ <id>2299398</id>
+ <milRank>Private</milRank>
+ <emailAddress></emailAddress>
+ <positionSince>0000-00-00</positionSince>
+ <forum></forum>
+ <wellness>96</wellness>
+ <location>Canada</location>
+ <rankPoints>72596</rankPoints>
+ <gameMil>Commander**</gameMil>
+ <strength>714</strength>
+ <influence>148</influence>
+ <branch>Pretorian Guard</branch>
+ <battalion>3</battalion>
+ <platoon>3</platoon>
+</soldier>
+<soldier>
+ <name>Max Rand</name>
+ <id>1259569</id>
+ <milRank>Private</milRank>
+ <emailAddress></emailAddress>
+ <positionSince>0000-00-00</positionSince>
+ <forum></forum>
+ <wellness>74</wellness>
+ <location>Italy</location>
+ <rankPoints>129324</rankPoints>
+ <gameMil>Lt Colonel</gameMil>
+ <strength>983</strength>
+ <influence>209</influence>
+ <branch>Pretorian Guard</branch>
+ <battalion>3</battalion>
+ <platoon>3</platoon>
+</soldier>
+<soldier>
+ <name>Constantin Prezan</name>
+ <id>1633652</id>
+ <milRank>Testing</milRank>
+ <emailAddress></emailAddress>
+ <positionSince>0000-00-00</positionSince>
+ <forum></forum>
+ <wellness>67</wellness>
+ <location>Romania</location>
+ <rankPoints>140807</rankPoints>
+ <gameMil>Lt Colonel*</gameMil>
+ <strength>1255</strength>
+ <influence>268</influence>
+ <branch>Pretorian Guard</branch>
+ <battalion>3</battalion>
+ <platoon>3</platoon>
+</soldier>

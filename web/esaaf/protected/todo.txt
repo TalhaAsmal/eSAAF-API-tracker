@@ -1,0 +1,4 @@
+Create battalion,branch,army classes (as necessary)
+implement AJAX for modify, delete scripts
+
+Update currency tracker to take into account transfers
